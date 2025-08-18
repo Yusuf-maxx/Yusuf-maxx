@@ -4,7 +4,7 @@
 💻 Learning **C, Java, Python** | 🌐 Exploring **Web Development & AI/ML**  
 🚀 Currently building: Portfolio Website & Mini Projects  
 📌 Interests: Full-Stack Development | Problem Solving | Open Source  
-📫 Reach me: **yusufsheikh1234@gmail.com**  
+📫 Reach me: **mdyusufsheikh7077@gmail.com**  
 🔗 GitHub: [Yusuf-maxx](https://github.com/Yusuf-maxx)  
 
 ✨ Always curious to learn, code & create impactful solutions!
