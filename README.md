@@ -13,7 +13,6 @@
 
 ## ⚡ Fun Stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yusuf-maxx&label=Profile%20Views&color=blue&style=flat" alt="views" />
   <img src="https://github-readme-stats.vercel.app/api?username=Yusuf-maxx&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yusuf-maxx&theme=radical" alt="streak" />
 </p>
