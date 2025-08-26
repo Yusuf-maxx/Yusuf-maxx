@@ -34,7 +34,7 @@
 ---
 
 ## 📂 Featured Projects
-- 🌟 [Portfolio Website](#)  
+- 🌟 [Portfolio Website](https://yusuf-maxx.github.io/portfolio/)  
 - 🤖 [Python Chatbot](#)  
 - 🧮 [Mini Calculator (Java)](#)  
 
