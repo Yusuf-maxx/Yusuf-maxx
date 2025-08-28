@@ -42,8 +42,7 @@
 
 ## 🎉 Fun Corner
 - 🔭 Currently exploring **Open Source**  
-- 🎮 Love to play games in free time  
-- ☕ Chai + Coding = Perfect Combo  
+- 🎮 Love to play games in free time    
 - ✨ Motto: *“Code, Learn, Share & Build something meaningful.”*  
 
 <p align="center">
